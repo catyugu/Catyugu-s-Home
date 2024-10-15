@@ -1,0 +1,99 @@
+body{
+    background-color: #ecf7fb;
+}
+header{
+    text-align: center;
+    font: bolder 50px Georgia, serif;
+    color: black;
+    background-color: #b0f1f1;
+    border-color: dodgerblue;
+    margin-left: 20%;
+    width: 60%;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 33px;
+    border-width: 16px;
+    border-style: outset;
+}
+nav{
+    text-align: left;
+    font: bolder 30px "Georgia", serif;
+    color: darkred;
+    background-color: mintcream;
+    border-color: #66ccff;
+    margin-top: 20px;
+    margin-left: 10%;
+    width: 79%;
+    height: 70px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    border-width: 7px;
+    border-style: solid;
+}
+nav ul {
+    padding: 0;
+    list-style-type: none;
+    flex: 2;
+    display: flex;
+}
+
+nav li {
+    display: inline;
+    text-align: center;
+    flex: 1;
+
+}
+nav a{
+    text-decoration: none;
+}
+
+main {
+    background-color: #ddf3f4;
+    text-align: left;
+    display: flex;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 20px;
+}
+
+article {
+    font: 25px "HarmonyOS Sans SC", serif;
+    flex: 7;
+    border-color: mediumaquamarine;
+    border-width: 7px;
+    border-style: solid;
+    padding: 10px;
+}
+
+aside {
+    font: bolder 20px "Hack Nerd Font Propo", serif;
+    flex: 2;
+    font-size: 18px;
+    border-color: mediumaquamarine;
+    margin-left: 2%;
+    border-width: 7px;
+    border-style: solid;
+    padding-left: 10px;
+}
+aside a{
+    text-decoration: none;
+    color: #1999ef;
+}
+aside li {
+    font-size: 18px;
+    padding-bottom: 11px;
+}
+footer{
+    text-align: right;
+    position: fixed;
+    bottom: 0;
+    right:0;
+    font: 14px FontAwesome, serif;
+    margin-left: 85%;
+    width: 10%;
+    justify-content: center;
+    align-items: center;
+}
