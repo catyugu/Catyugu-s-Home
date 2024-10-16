@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a352aacf-1ce4-446d-a0e3-df7f2873c345" name="更改" comment="master">
-      <change beforePath="$PROJECT_DIR$/src/Passage.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Passage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/text/contact.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,23 +47,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JavaScript 调试.Mainpage.html.executor": "Run",
-    "JavaScript 调试.Menu.html.executor": "Run",
-    "JavaScript 调试.Passage.html.executor": "Run",
-    "JavaScript 调试.Resource.html.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.codeium.enabled": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "http.proxy",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JavaScript 调试.Mainpage.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript 调试.Menu.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript 调试.Passage.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript 调试.Resource.html.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;http.proxy&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\code\html\test0\external" />
@@ -111,7 +112,8 @@
       <workItem from="1729070301486" duration="440000" />
       <workItem from="1729070749966" duration="1292000" />
       <workItem from="1729072061738" duration="323000" />
-      <workItem from="1729072392765" duration="392000" />
+      <workItem from="1729072392765" duration="498000" />
+      <workItem from="1729073039410" duration="201000" />
     </task>
     <task id="LOCAL-00002" summary="master">
       <option name="closed" value="true" />
@@ -169,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729072663615</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="master">
+      <option name="closed" value="true" />
+      <created>1729072813232</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1729072813232</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
