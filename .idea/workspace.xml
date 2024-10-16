@@ -7,7 +7,6 @@
     <list default="true" id="a352aacf-1ce4-446d-a0e3-df7f2873c345" name="更改" comment="master">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/text/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/text/contact.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +118,8 @@
       <workItem from="1729074533773" duration="40000" />
       <workItem from="1729074586692" duration="54000" />
       <workItem from="1729074802661" duration="1342000" />
-      <workItem from="1729083825848" duration="476000" />
+      <workItem from="1729083825848" duration="545000" />
+      <workItem from="1729084405755" duration="5000" />
     </task>
     <task id="LOCAL-00002" summary="master">
       <option name="closed" value="true" />
@@ -233,7 +233,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729074886922</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="master">
+      <option name="closed" value="true" />
+      <created>1729084353326</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1729084353326</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
