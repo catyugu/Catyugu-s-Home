@@ -8,11 +8,19 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Passage.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Passage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/Chapter1.html" beforeDir="false" afterPath="$PROJECT_DIR$/text/Chapter1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,25 +49,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;JavaScript 调试.Mainpage.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript 调试.Menu.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript 调试.Passage.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript 调试.Resource.html.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;http.proxy&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript 调试.Mainpage.html.executor": "Run",
+    "JavaScript 调试.Menu.html.executor": "Run",
+    "JavaScript 调试.Passage.html.executor": "Run",
+    "JavaScript 调试.Resource.html.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "http.proxy",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\code\html\test0\external" />
       <recent name="E:\code\html\test0" />
     </key>
   </component>
@@ -97,7 +106,15 @@
       <option name="presentableId" value="Default" />
       <updated>1729054970535</updated>
       <workItem from="1729054971787" duration="1275000" />
-      <workItem from="1729056267875" duration="2347000" />
+      <workItem from="1729056267875" duration="2793000" />
+      <workItem from="1729059138472" duration="6617000" />
+      <workItem from="1729065842346" duration="3329000" />
+      <workItem from="1729069213080" duration="220000" />
+      <workItem from="1729069448432" duration="839000" />
+      <workItem from="1729070301486" duration="440000" />
+      <workItem from="1729070749966" duration="1292000" />
+      <workItem from="1729072061738" duration="323000" />
+      <workItem from="1729072392765" duration="257000" />
     </task>
     <task id="LOCAL-00002" summary="master">
       <option name="closed" value="true" />
@@ -139,7 +156,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729056506984</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="master">
+      <option name="closed" value="true" />
+      <created>1729058706438</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1729058706438</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

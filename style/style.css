@@ -60,7 +60,7 @@ main {
 
 article {
     background-color: #ddf3f4;
-    font: 25px "HarmonyOS Sans SC", serif;
+    font: 30px "HarmonyOS Sans SC", serif;
     flex: 7;
     border-color: mediumaquamarine;
     border-width: 7px;
@@ -110,3 +110,4 @@ footer{
     justify-content: center;
     align-items: center;
 }
+code.has-jax {font: inherit; font-size: 100%; background: inherit; border: inherit;}
