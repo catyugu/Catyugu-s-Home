@@ -9,7 +9,7 @@ header{
     border-color: dodgerblue;
     margin-left: 20%;
     width: 60%;
-    height: 70px;
+    height: auto;
     display: flex;
     justify-content: center;
     align-items: center;
