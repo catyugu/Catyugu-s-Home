@@ -51,7 +51,6 @@ nav a{
 }
 
 main {
-    background-color: #ddf3f4;
     text-align: left;
     display: flex;
     width: 80%;
@@ -60,6 +59,7 @@ main {
 }
 
 article {
+    background-color: #ddf3f4;
     font: 25px "HarmonyOS Sans SC", serif;
     flex: 7;
     border-color: mediumaquamarine;
@@ -73,13 +73,22 @@ article h1 {
     padding-left: 20px;
 }
 aside {
+    background-color: #ddf3f4;
     font: bolder 20px "Hack Nerd Font Propo", serif;
+    height: 400px;
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+    scrollbar-color: #81ea6a mediumaquamarine;
+    scrollbar-width: thin;
+    position: sticky;
+    top: 100px;
     flex: 2;
     font-size: 18px;
     border-color: mediumaquamarine;
     margin-left: 2%;
     border-width: 7px;
     border-style: solid;
+    border-right-style: none;
     padding-left: 10px;
 }
 aside a{
