@@ -67,7 +67,11 @@ article {
     border-style: solid;
     padding: 10px;
 }
-
+article h1 {
+    color: blueviolet;
+    font-style: italic;
+    padding-left: 20px;
+}
 aside {
     font: bolder 20px "Hack Nerd Font Propo", serif;
     flex: 2;
